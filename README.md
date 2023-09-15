@@ -20,6 +20,10 @@
 ![](https://img.shields.io/badge/DB-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2554a0)
 ![](https://img.shields.io/badge/IDE-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2554a0)
 ![](https://img.shields.io/badge/Tool-Git-informational?style=flat&logo=git&logoColor=white&color=2554a0)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smgabriel&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/smgabriel/github-readme-stats)
+
+
 <!--
 **smgabriel/smgabriel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
